@@ -1,0 +1,11 @@
+#!/usr/local/bin/bash
+
+################################
+#Git commit e-mail notifcation #
+#
+#
+################################
+
+read arguments
+
+ 
