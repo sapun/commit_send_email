@@ -1,10 +1,19 @@
 #!/usr/local/bin/bash
 
-################################
-#Git commit e-mail notifcation #
+#################################
+# Git commit e-mail notifcation #
 #
 #
 ################################
+#
+# Variables
+#
+emails="testmail@testdomain.ru"
+smtphost="localhost"
+smtpuser="git@testdomain.ru"
+smtppwd="pass"
+subject="Git Commit Notify! No responde."
+
 
 read arguments
 
